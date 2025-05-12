@@ -9,15 +9,14 @@ As of May 2025, for some reason Vosk for Node.js does not work. Hence python is 
 ## Instructions (Refer to Max Patch example.maxpat):
 Prerequisite: 
 
-Download all the files from this repo (or clone repository)
-
 Install Python 3
 
-1) open the terminal and install python dependencies:
+1) Download all the files from this repo (or clone repository)
+2) open the terminal and install python dependencies:
 ```
 pip install sounddevice
 pip install vosk
 ```
-2) change the pythonPath to where your python is at cont-voice-recog.js
-3) press `script npm i`
-4) press script start
+3) change the pythonPath to where your python is at cont-voice-recog.js
+4) press `script npm i`
+5) press script start
