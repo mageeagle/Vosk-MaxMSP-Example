@@ -8,7 +8,9 @@ As of May 2025, for some reason Vosk for Node.js does not work. Hence python is 
 
 ## Instructions (Refer to Max Patch example.maxpat):
 Prerequisite: 
+
 Download all the files from this repo (or clone repository)
+
 Install Python 3
 
 1) open the terminal and install python dependencies:
